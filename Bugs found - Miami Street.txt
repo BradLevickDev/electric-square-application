@@ -1,0 +1,10 @@
+- sound effects are associated with 'on mouse press' event rather than 'on mouse release' event.
+
+- There is no UI navigation sound effect when clicking on the energy counter.
+
+- In 'collection' when car reaches Max in tuning level, the Tuning kit UI button is blacked out. 
+Clicking on another car in th collection causes a graphical bug whereby the default information
+panel is the 'upgrade kits' panel. The rollover effect is present on the tuning kits button 
+as well as the highlight indicator on the 'upgrade kits' button.
+
+Clicking on either makes it revert to normal. Polish fix.
